@@ -69,9 +69,13 @@
 
 ---
 
-### Difficulty 900-1000 — 0 / 50
+### Difficulty 900-1000 — 3 / 50
 
-*Coming next.*
+| # | ID | Problem |
+|---|----|---------|
+| 1 | 96A | Football |
+| 2 | 160A | Twins |
+| 3 | 318A | Even Odds |
 
 ---
 
