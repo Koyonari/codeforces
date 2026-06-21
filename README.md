@@ -69,7 +69,7 @@
 
 ---
 
-### Difficulty 900-1000 — 5 / 50
+### Difficulty 900-1000 — 7 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -78,6 +78,11 @@
 | 3 | 318A | Even Odds |
 | 4 | 405A | Gravity Flip |
 | 5 | 133A | HQ9+ |
+| 6 | 580A | Kefa and First Steps |
+| 7 | 208A | Dubstep |
+| 8 | 337A | Puzzles |
+| 9 | 1475A | Odd Divisor |
+| 10 | 451A | Game With Sticks |
 
 ---
 
