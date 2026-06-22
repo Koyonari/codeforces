@@ -83,6 +83,11 @@
 | 8 | 337A | Puzzles |
 | 9 | 1475A | Odd Divisor |
 | 10 | 451A | Game With Sticks |
+| 11 | 1374B | Multiply by 2, divide by 6 |
+| 12 | 34B | Sale |
+| 13 | 313A | Ilya and Bank Account |
+| 14 | 1850D | Balanced Round |
+| 15 | 1883B | Chemistry |
 
 ---
 
