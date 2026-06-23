@@ -88,6 +88,10 @@
 | 13 | 313A | Ilya and Bank Account |
 | 14 | 1850D | Balanced Round |
 | 15 | 1883B | Chemistry |
+| 16 | 1878C | Vasilije in Cacak |
+| 17 | 1807D | Odd Queries |
+| 18 | 1475B | New Year's Number |
+| 19 | 474A | Keyboard |
 
 ---
 
