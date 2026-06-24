@@ -69,7 +69,7 @@
 
 ---
 
-### Difficulty 900-1000 — 7 / 50
+### Difficulty 900 — 20 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -92,6 +92,7 @@
 | 17 | 1807D | Odd Queries |
 | 18 | 1475B | New Year's Number |
 | 19 | 474A | Keyboard |
+| 20 | 1624B | Make AP |
 
 ---
 
