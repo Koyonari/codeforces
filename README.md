@@ -93,6 +93,11 @@
 | 18 | 1475B | New Year's Number |
 | 19 | 474A | Keyboard |
 | 20 | 1624B | Make AP |
+| 21 | 1373B | 01 Game |
+| 22 | 1343A | Candies |
+| 23 | 460A | Vasya and Socks |
+| 24 | 1837B | Comparison String |
+| 25 | 977B | Two-gram |
 
 ---
 
