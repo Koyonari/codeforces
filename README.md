@@ -98,6 +98,11 @@
 | 23 | 460A | Vasya and Socks |
 | 24 | 1837B | Comparison String |
 | 25 | 977B | Two-gram |
+| 26 | 1875A | Jellyfish and Undertale |
+| 27 | 1559A | Mocha and Math |
+| 28 | 1855B | Longest Divisors Interval |
+| 29 | 556A | Case of the Zeros and Ones |
+| 30 | 149A | Business trip |
 
 ---
 
