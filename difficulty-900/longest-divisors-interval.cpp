@@ -13,6 +13,8 @@ int main() {
         cin >> n;
         long long factor = 2;
         long long ans = 0;
+
+        // Find smallest positive integer that isn't a factor of n
         while (true) {
             if (n % factor != 0) {
                 ans = factor;

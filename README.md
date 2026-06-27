@@ -69,7 +69,7 @@
 
 ---
 
-### Difficulty 900 — 20 / 50
+### Difficulty 900 — 30 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -103,6 +103,8 @@
 | 28 | 1855B | Longest Divisors Interval |
 | 29 | 556A | Case of the Zeros and Ones |
 | 30 | 149A | Business trip |
+| 31 | 320A | Magic Numbers |
+| 32 | 1675B | Make It Increasing |
 
 ---
 
@@ -117,3 +119,6 @@
 | 5 | 2236C | Omsk Programmers |
 | 6 | 2234B | Palindrome, Twelve and Two Terms |
 | 7 | 2236B | Tatar TV Show |
+| 8 | 2240A | Another Popcount Problem |
+| 9 | 2240B | AI Finds Nothing Here |
+| 10 | 2240C | Nim Game Is XOR Game |
