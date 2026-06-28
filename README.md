@@ -69,7 +69,7 @@
 
 ---
 
-### Difficulty 900 — 30 / 50
+### Difficulty 900 — 34 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -105,6 +105,8 @@
 | 30 | 149A | Business trip |
 | 31 | 320A | Magic Numbers |
 | 32 | 1675B | Make It Increasing |
+| 33 | 115A | Party |
+| 34 | 1537B | Bad Boy |
 
 ---
 
@@ -115,10 +117,12 @@
 | 1 | 2233A | AI Project Development |
 | 2 | 2233B | Different Distances |
 | 3 | 2234A | Euclid, Sequence and Two Numbers |
-| 4 | 2236A | Games on the Train |
-| 5 | 2236C | Omsk Programmers |
-| 6 | 2234B | Palindrome, Twelve and Two Terms |
+| 4 | 2234B | Palindrome, Twelve and Two Terms |
+| 5 | 2236A | Games on the Train |
+| 6 | 2236C | Omsk Programmers |
 | 7 | 2236B | Tatar TV Show |
 | 8 | 2240A | Another Popcount Problem |
 | 9 | 2240B | AI Finds Nothing Here |
 | 10 | 2240C | Nim Game Is XOR Game |
+| 11 | 2238A | Another Puzzle from Papyrus |
+| 12 | 2238B | Crimson Triples |
