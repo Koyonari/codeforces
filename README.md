@@ -107,6 +107,13 @@
 | 32 | 1675B | Make It Increasing |
 | 33 | 115A | Party |
 | 34 | 1537B | Bad Boy |
+| 35 | 1904A | Forked! |
+| 36 | 1335B | Construct the String |
+| 37 | 1543A | Exciting Bets |
+| 38 | 1593B | Make it Divisible by 25 |
+| 39 | 1869A | Make It Zero |
+| 40 | 1679A | AvtoBus |
+| 41 | 1794B | Not Dividing |
 
 ---
 
