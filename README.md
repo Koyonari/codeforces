@@ -114,6 +114,12 @@
 | 39 | 1869A | Make It Zero |
 | 40 | 1679A | AvtoBus |
 | 41 | 1794B | Not Dividing |
+| 42 | 1971C | Clock and Strings |
+| 43 | 1380A | Three Indices |
+| 44 | 1985D | Manhattan Circle |
+| 45 | 1828B | Permutation Swap |
+| 46 | 1607B | Odd Grasshopper |
+| 47 | 1742C | Stripes |
 
 ---
 
