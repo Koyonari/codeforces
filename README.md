@@ -120,6 +120,7 @@
 | 45 | 1828B | Permutation Swap |
 | 46 | 1607B | Odd Grasshopper |
 | 47 | 1742C | Stripes |
+| 48 | 1471A | Strange Partition |
 
 ---
 
