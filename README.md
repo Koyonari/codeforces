@@ -2,12 +2,12 @@
 
 ## Plan
 
-- **5 problems per day** minimum
+- aim for **5 problems per day**
 - **50 problems per difficulty level** before advancing (800 → 900 → 1000 → ...)
 - At each difficulty tier, also drill **weak topics** at that rating before moving on
 - Participate in **contests** throughout
 
-## Progress
+## Progress - Currently serving National Service, not as active
 
 ### Difficulty 800 — 53 / 50 ✓
 
@@ -69,7 +69,7 @@
 
 ---
 
-### Difficulty 900 — 34 / 50
+### Difficulty 900 — 48 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -140,3 +140,6 @@
 | 10 | 2240C | Nim Game Is XOR Game |
 | 11 | 2238A | Another Puzzle from Papyrus |
 | 12 | 2238B | Crimson Triples |
+| 13 | 2257A | Creating Abbreviations
+| 14 | 2257B | Gigantomachy |
+| 15 | 2257C | Spying on the Beaver
