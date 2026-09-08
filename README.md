@@ -69,7 +69,7 @@
 
 ---
 
-### Difficulty 900 — 48 / 50
+### Difficulty 900 — 51 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -121,6 +121,17 @@
 | 46 | 1607B | Odd Grasshopper |
 | 47 | 1742C | Stripes |
 | 48 | 1471A | Strange Partition |
+| 49 | 1742C | Stripes |
+| 50 | 1606A | AB Balance |
+| 51 | 1941C | Rudolf and the Ugly String |
+
+---
+
+### Difficulty 1000 — 1 / 50
+
+| # | ID | Problem |
+|---|----|---------|
+|  |  |
 
 ---
 
