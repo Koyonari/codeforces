@@ -133,7 +133,8 @@
 |---|----|---------|
 | 1 | 2256B | Domino Tiles |
 | 2 | 1A | Theatre Square |
-| 3 | 118A || String Task |
+| 3 | 118A | String Task |
+| 4 | 1430C | Numbers on Whiteboard |
 
 ---
 
