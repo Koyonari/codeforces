@@ -127,11 +127,13 @@
 
 ---
 
-### Difficulty 1000 — 1 / 50
+### Difficulty 1000 — 3 / 50
 
 | # | ID | Problem |
 |---|----|---------|
-|  |  |
+| 1 | 2256B | Domino Tiles |
+| 2 | 1A | Theatre Square |
+| 3 | 118A || String Task |
 
 ---
 
