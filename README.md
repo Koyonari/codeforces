@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 3 / 50
+### Difficulty 1000 — 5 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -135,6 +135,7 @@
 | 2 | 1A | Theatre Square |
 | 3 | 118A | String Task |
 | 4 | 1430C | Numbers on Whiteboard |
+| 5 | 1837C | Best Binary String |
 
 ---
 
