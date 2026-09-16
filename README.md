@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 5 / 50
+### Difficulty 1000 — 6 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -136,6 +136,7 @@
 | 3 | 118A | String Task |
 | 4 | 1430C | Numbers on Whiteboard |
 | 5 | 1837C | Best Binary String |
+| 6 | 1333A | Little Artem |
 
 ---
 
