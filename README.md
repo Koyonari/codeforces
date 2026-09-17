@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 6 / 50
+### Difficulty 1000 — 8 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -137,6 +137,8 @@
 | 4 | 1430C | Numbers on Whiteboard |
 | 5 | 1837C | Best Binary String |
 | 6 | 1333A | Little Artem |
+| 7 | 1579E1 | Permutation Minimization by Deque |
+| 8 | 1165B | Polycarp Training |
 
 ---
 
