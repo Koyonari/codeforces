@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 8 / 50
+### Difficulty 1000 — 9 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -139,6 +139,7 @@
 | 6 | 1333A | Little Artem |
 | 7 | 1579E1 | Permutation Minimization by Deque |
 | 8 | 1165B | Polycarp Training |
+| 9 | 2005B1 | The Strict Teacher |
 
 ---
 
