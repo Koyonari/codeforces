@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 9 / 50
+### Difficulty 1000 — 10 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -140,7 +140,7 @@
 | 7 | 1579E1 | Permutation Minimization by Deque |
 | 8 | 1165B | Polycarp Training |
 | 9 | 2005B1 | The Strict Teacher |
-
+| 10 | 1841B | Keep It Beautiful |
 ---
 
 ## Contests Participated
