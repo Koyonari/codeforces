@@ -141,6 +141,8 @@
 | 8 | 1165B | Polycarp Training |
 | 9 | 2005B1 | The Strict Teacher |
 | 10 | 1841B | Keep It Beautiful |
+| 11 | 1987B | K-Sort |
+
 ---
 
 ## Contests Participated
