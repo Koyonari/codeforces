@@ -143,7 +143,7 @@
 | 10 | 1841B | Keep It Beautiful |
 | 11 | 1987B | K-Sort |
 | 12 | 1861B | Two Binary Strings |
-| 13 | 
+| 13 | 1766B | Notepad# |
 
 ---
 
