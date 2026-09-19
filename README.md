@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 10 / 50
+### Difficulty 1000 — 12 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -142,6 +142,8 @@
 | 9 | 2005B1 | The Strict Teacher |
 | 10 | 1841B | Keep It Beautiful |
 | 11 | 1987B | K-Sort |
+| 12 | 1861B | Two Binary Strings |
+| 13 | 
 
 ---
 
@@ -164,3 +166,5 @@
 | 13 | 2257A | Creating Abbreviations
 | 14 | 2257B | Gigantomachy |
 | 15 | 2257C | Spying on the Beaver
+| 16 | 2260A | Monocarp's Contest |
+| 17 | 2260B | Monocarp and Projects |
