@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 12 / 50
+### Difficulty 1000 — 15 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -144,6 +144,8 @@
 | 11 | 1987B | K-Sort |
 | 12 | 1861B | Two Binary Strings |
 | 13 | 1766B | Notepad# |
+| 14 | 2176B | Optimal Shifts |
+| 15 | 732B | Cormen - The Best Friend Of a Man |
 
 ---
 
