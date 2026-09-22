@@ -56,7 +56,7 @@
 | 41 | 1742A | Sum |
 | 42 | 1352A | Sum of Round Numbers |
 | 43 | 231A | Team |
-| 44 | 140B | The New Year: Meeting Friends |
+| 44 | 723A | The New Year: Meeting Friends |
 | 45 | 116A | Tram |
 | 46 | 41A | Translation |
 | 47 | 61A | Ultra-Fast Mathematician |
@@ -121,13 +121,13 @@
 | 46 | 1607B | Odd Grasshopper |
 | 47 | 1742C | Stripes |
 | 48 | 1471A | Strange Partition |
-| 49 | 1742C | Stripes |
+| 49 | 26A | Almost Prime |
 | 50 | 1606A | AB Balance |
 | 51 | 1941C | Rudolf and the Ugly String |
 
 ---
 
-### Difficulty 1000 — 15 / 50
+### Difficulty 1000 — 16 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -167,8 +167,8 @@
 | 10 | 2240C | Nim Game Is XOR Game |
 | 11 | 2238A | Another Puzzle from Papyrus |
 | 12 | 2238B | Crimson Triples |
-| 13 | 2257A | Creating Abbreviations
+| 13 | 2257A | Creating Abbreviations |
 | 14 | 2257B | Gigantomachy |
-| 15 | 2257C | Spying on the Beaver
+| 15 | 2257C | Spying on the Beaver |
 | 16 | 2260A | Monocarp's Contest |
 | 17 | 2260B | Monocarp and Projects |
