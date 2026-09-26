@@ -172,7 +172,7 @@
 | 15 | 2257C | Spying on the Beaver |
 | 16 | 2260A | Monocarp's Contest |
 | 17 | 2260B | Monocarp and Projects |
-| 18 | A | SauSaGe Bank |
-| 19 | B | KiaKio and Squared Numbers |
-| 20 | C | K Is Important |
-| 21 | D | What a SauSaGe! It's All Meat |
+| 18 | 2269A | SauSaGe Bank |
+| 19 | 2269B | KiaKio and Squared Numbers |
+| 20 | 2269C | K Is Important |
+| 21 | 2269D | What a SauSaGe! It's All Meat |
