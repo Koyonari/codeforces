@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 16 / 50
+### Difficulty 1000 — 18 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -148,6 +148,7 @@
 | 15 | 732B | Cormen - The Best Friend Of a Man |
 | 16 | 2148D | Destruction of the Dandelion Fields |
 | 17 | 37A | Towers |
+| 18 | 2123C | Prefix Min and Suffix Max |
 
 ---
 
