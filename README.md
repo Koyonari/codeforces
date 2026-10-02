@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 18 / 50
+### Difficulty 1000 — 21 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -149,6 +149,9 @@
 | 16 | 2148D | Destruction of the Dandelion Fields |
 | 17 | 37A | Towers |
 | 18 | 2123C | Prefix Min and Suffix Max |
+| 19 | 69A | Young Physicist |
+| 20 | 58A | Chat Room |
+| 21 | 2132C1 | The Cunning Seller (easy version) |
 
 ---
 
