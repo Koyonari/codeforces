@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 21 / 50
+### Difficulty 1000 — 24 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -152,6 +152,9 @@
 | 19 | 69A | Young Physicist |
 | 20 | 58A | Chat Room |
 | 21 | 2132C1 | The Cunning Seller (easy version) |
+| 22 | 2106C | Cherry Bomb |
+| 23 | 1800C1 | Powering the Hero (easy version) |
+| 24 | 3A | Shortest path of the king |
 
 ---
 
