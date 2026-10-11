@@ -155,7 +155,8 @@
 | 22 | 2106C | Cherry Bomb |
 | 23 | 1800C1 | Powering the Hero (easy version) |
 | 24 | 3A | Shortest path of the king |
-
+| 25 | 1251A | Broken Keyboard |
+| 26 | 2143B | Discounts |
 ---
 
 ## Contests Participated
