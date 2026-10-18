@@ -157,6 +157,9 @@
 | 24 | 3A | Shortest path of the king |
 | 25 | 1251A | Broken Keyboard |
 | 26 | 2143B | Discounts |
+| 27 | 1831B | Array merging |
+| 28 | 2091C | Combination Lock |
+
 ---
 
 ## Contests Participated
