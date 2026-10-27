@@ -159,6 +159,8 @@
 | 26 | 2143B | Discounts |
 | 27 | 1831B | Array merging |
 | 28 | 2091C | Combination Lock |
+| 29 | 1876A | Helmets in Night Light |
+| 30 | 1691B | Shoe Shuffling |
 
 ---
 
