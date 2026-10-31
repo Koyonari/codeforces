@@ -127,7 +127,7 @@
 
 ---
 
-### Difficulty 1000 — 30 / 50
+### Difficulty 1000 — 32 / 50
 
 | # | ID | Problem |
 |---|----|---------|
@@ -161,6 +161,8 @@
 | 28 | 2091C | Combination Lock |
 | 29 | 1876A | Helmets in Night Light |
 | 30 | 1691B | Shoe Shuffling |
+| 31 | 139A | Petr and Book |
+| 32 | 1312B | Bogosort |
 
 ---
 
@@ -189,3 +191,7 @@
 | 19 | 2269B | KiaKio and Squared Numbers |
 | 20 | 2269C | K Is Important |
 | 21 | 2269D | What a SauSaGe! It's All Meat |
+| 22 | 2278A | Fraction and Six |
+| 23 | 2278B | Stakes and Shapes |
+| 24 | 2278C | Math and Physics |
+| 25 | 2278D | Lock and Unlock | 
