@@ -166,6 +166,8 @@
 | 33 | 1293B | JOE is on TV! |
 | 34 | 2254C | Marenol (easy version) |
 | 35 | 334A | Candy Bags |
+| 36 | 124A | The number of positions |
+| 37 | 1237A | Balanced Rating Changes |
 
 ---
 
