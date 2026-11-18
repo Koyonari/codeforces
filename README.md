@@ -169,6 +169,7 @@
 | 36 | 124A | The number of positions |
 | 37 | 1237A | Balanced Rating Changes |
 | 38 | 1955B | Progressive Square |
+| 39 | 1359B | New Threatre Square |
 
 ---
 
